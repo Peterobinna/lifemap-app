@@ -1,7 +1,5 @@
 # LifeMap - Personal Development Platform
 
-![LifeMap Banner](https://via.placeholder.com/800x200/667eea/ffffff?text=LifeMap+-+Discover+%26+Develop+Yourself)
-
 ## 🎯 Overview
 
 LifeMap is a comprehensive personal development platform designed specifically for Nigerian youth (ages 13-25). The platform provides structured guidance through self-discovery assessments, goal tracking, mentorship connections, and curated learning resources.
