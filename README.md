@@ -193,11 +193,9 @@ npm run build
 
 ### Browser Testing
 Tested and verified on:
-- ✅ Chrome 90+
-- ✅ Firefox 85+
-- ✅ Safari 14+
-- ✅ Edge 90+
-- ✅ Mobile browsers (Android/iOS)
+- Chrome 90+
+- Firefox 85+
+- Mobile browsers (Android/iOS)
 
 ## Troubleshooting
 
@@ -231,57 +229,3 @@ Tested and verified on:
    firebase init hosting
    ```
 
-## Support
-
-If you encounter issues:
-1. Check the [Issues](https://github.com/yourusername/lifemap-app/issues) page
-2. Create a new issue with detailed description
-3. Include error messages and steps to reproduce
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Developer
-
-**Peter Nnamchukwu**
-- **Institution:** African Leadership University
-- **Email:** peter.nnamchukwu@alustudent.com
-- **GitHub:** [@peternnamchukwu](https://github.com/peternnamchukwu)
-- **LinkedIn:** [Peter Nnamchukwu](https://linkedin.com/in/peternnamchukwu)
-
-## Acknowledgments
-
-- African Leadership University for the opportunity
-- Firebase team for excellent backend services
-- React community for comprehensive documentation
-- Nigerian youth for inspiration and feedback
-- ALU Software Engineering instructors
-
-## Project Status
-
-- **Development Phase:** MVP Complete ✅
-- **Deployment Status:** Live in Production ✅
-- **Current Version:** v1.0.0
-- **Last Updated:** July 31, 2025
-
----
-
-**Made with ❤️ for Nigerian Youth Development**
-
-## Quick Links
-
-- [Live Application](https://lifemap-87152.web.app)
-- [Video Demo](your-video-link)
-- [SRS Document](https://docs.google.com/document/d/1XFLIXShOJP-FkXoggqkksg6ODjZvgVL-TWVA_jpu5wQ/edit)
-- [Report Issues](https://github.com/yourusername/lifemap-app/issues)
-
-**Last Updated:** July 31, 2025
