@@ -1,12 +1,12 @@
 # LifeMap - Personal Development Platform
 
-## 🎯 Overview
+## Overview
 
 LifeMap is a comprehensive personal development platform designed specifically for Nigerian youth (ages 13-25). The platform provides structured guidance through self-discovery assessments, goal tracking, mentorship connections, and curated learning resources.
 
 **Live Demo:** [https://lifemap-87152.web.app](https://lifemap-87152.web.app)
 
-## 🌟 Problem Statement
+## Problem Statement
 
 Young adults in Nigeria often struggle with:
 - Lack of structured personal development guidance
@@ -15,7 +15,7 @@ Young adults in Nigeria often struggle with:
 - Scattered learning resources without personalization
 - No centralized platform for holistic growth
 
-## 💡 Solution
+## Solution
 
 LifeMap addresses these challenges by providing:
 - **Self-Discovery Assessment**: Comprehensive quiz to identify strengths and growth areas
@@ -24,7 +24,7 @@ LifeMap addresses these challenges by providing:
 - **Learning Hub**: Curated resources based on user preferences
 - **Progress Analytics**: Visual insights into personal growth journey
 
-## 🚀 Live Application
+## Live Application
 
 **Access the platform:** [https://lifemap-87152.web.app](https://lifemap-87152.web.app)
 
@@ -32,7 +32,7 @@ LifeMap addresses these challenges by providing:
 - **Email:** demo@lifemap.ng
 - **Password:** demo123456
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend:** React.js 18, CSS3, HTML5
 - **Backend:** Firebase (Authentication, Firestore, Hosting)
@@ -40,9 +40,9 @@ LifeMap addresses these challenges by providing:
 - **Authentication:** Firebase Auth
 - **Deployment:** Firebase Hosting
 
-## 📱 Key Features
+## Key Features
 
-### ✅ Implemented Features
+### Implemented Features
 1. **User Authentication**
    - Email/password registration and login
    - Secure session management
@@ -68,14 +68,14 @@ LifeMap addresses these challenges by providing:
    - Quick access to all features
    - Responsive design for all devices
 
-### 🔜 Planned Features
+### Planned Features
 - Mentorship matching system
 - Progress analytics with charts
 - Community forums
 - Mobile app (React Native)
 - Offline functionality
 
-## 🏗️ Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Node.js (version 14 or higher)
@@ -138,7 +138,7 @@ firebase init hosting
 firebase deploy
 ```
 
-## 📊 System Architecture
+## System Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -169,16 +169,16 @@ goals/
       └── createdAt: timestamp
 ```
 
-## 🎬 Video Demonstration
+## Video Demonstration
 
 [📺 Watch the full demo video](your-video-link-here)
 
-## 📋 Documentation
+## Documentation
 
 - **SRS Document:** [System Requirements Specification](https://docs.google.com/document/d/1XFLIXShOJP-FkXoggqkksg6ODjZvgVL-TWVA_jpu5wQ/edit)
 - **Project Proposal:** [Initial concept and mission](link-to-proposal)
 
-## 🧪 Testing
+## Testing
 
 ### Run Tests
 ```bash
@@ -199,7 +199,7 @@ Tested and verified on:
 - ✅ Edge 90+
 - ✅ Mobile browsers (Android/iOS)
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -231,14 +231,14 @@ Tested and verified on:
    firebase init hosting
    ```
 
-## 📞 Support
+## Support
 
 If you encounter issues:
 1. Check the [Issues](https://github.com/yourusername/lifemap-app/issues) page
 2. Create a new issue with detailed description
 3. Include error messages and steps to reproduce
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -246,11 +246,11 @@ If you encounter issues:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
+## Developer
 
 **Peter Nnamchukwu**
 - **Institution:** African Leadership University
@@ -258,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub:** [@peternnamchukwu](https://github.com/peternnamchukwu)
 - **LinkedIn:** [Peter Nnamchukwu](https://linkedin.com/in/peternnamchukwu)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - African Leadership University for the opportunity
 - Firebase team for excellent backend services
@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Nigerian youth for inspiration and feedback
 - ALU Software Engineering instructors
 
-## 📈 Project Status
+## Project Status
 
 - **Development Phase:** MVP Complete ✅
 - **Deployment Status:** Live in Production ✅
@@ -277,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for Nigerian Youth Development**
 
-## 🔗 Quick Links
+## Quick Links
 
 - [Live Application](https://lifemap-87152.web.app)
 - [Video Demo](your-video-link)
