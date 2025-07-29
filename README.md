@@ -4,7 +4,7 @@
 
 LifeMap is a comprehensive personal development platform designed specifically for Nigerian youth (ages 13-25). The platform provides structured guidance through self-discovery assessments, goal tracking, mentorship connections, and curated learning resources.
 
-**Live Demo:** [https://lifemap-87152.web.app](https://lifemap-87152.web.app)
+**Live Demo:** [Demo Video Link](https://youtu.be/aur8RwOXcB8)
 
 ## Problem Statement
 
