@@ -29,8 +29,8 @@ LifeMap addresses these challenges by providing:
 **Access the platform:** [https://lifemap-87152.web.app](https://lifemap-87152.web.app)
 
 ### Demo Credentials
-- **Email:** demo@lifemap.ng
-- **Password:** demo123456
+- **Email:** Peternnamchukwu@gmail.com
+- **Password:** Peterobi1$
 
 ## Technology Stack
 
